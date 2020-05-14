@@ -2,9 +2,9 @@
 <html lang="en">
     <head>
       <meta charset="UTF-8">
-      <title>Yunes Hama</title>
     </head>
       <body>
+       <title>Yunes Hama</title>
         <h1><i>You can't wake up someone who's pretending to be asleep</i></h1>
         <img src="https://raw.githubusercontent.com/YunesHama/challenge-markdown/master/Yunes.jpg" alt="yunesfoto">
         <h2>Good kid, mad city</h2>
